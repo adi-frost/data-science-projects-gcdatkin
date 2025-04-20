@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+age-prediction-from-facial-images/archive
+age-prediction-from-facial-images/archive.zip
