@@ -179,4 +179,6 @@ fruit-image-classification/archive(1)
 fruit-image-classification/fruits-360-original-size
 nyc-restaurant-inspection-prediction/DOHMH_New_York_City_Restaurant_Inspection_Results.csv
 news-category-prediction-(word-embeddings)/News_Category_Dataset_v3.json
-
+911-call-type-prediction/911.csv
+food-review-rating-prediction/Reviews.csv
+predicting-movie-ratings-from-keywords/ratings.csv
