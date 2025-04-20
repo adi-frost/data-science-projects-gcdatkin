@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 age-prediction-from-facial-images/archive
 age-prediction-from-facial-images/archive.zip
+cat-scan-location-prediction/slice_localization_data.csv
