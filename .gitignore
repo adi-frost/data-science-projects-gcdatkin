@@ -186,7 +186,7 @@ predicting-movie-ratings-from-keywords/ratings.csv
 food-image-classification-(transfer-learning)/food-101
 flight-cancellation-prediction/flights.csv
 boat-image-classification-(cnns)/archive
-
+prescription-drug-type-prediction-(model-selection)/catboost_info
 
 
 
