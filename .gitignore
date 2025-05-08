@@ -188,7 +188,7 @@ flight-cancellation-prediction/flights.csv
 boat-image-classification-(cnns)/archive
 prescription-drug-type-prediction-(model-selection)/catboost_info
 car-review-rating-prediction-(multi-input-nn)/Review.csv
-
+identifying-pneumonia-with-tensorflow/chest_xray
 
 
 
