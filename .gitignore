@@ -189,6 +189,10 @@ boat-image-classification-(cnns)/archive
 prescription-drug-type-prediction-(model-selection)/catboost_info
 car-review-rating-prediction-(multi-input-nn)/Review.csv
 identifying-pneumonia-with-tensorflow/chest_xray
+air-pressure-system-failure-prediction/aps_failure_training_set_processed_8bit.csv
+air-pressure-system-failure-prediction/aps_failure_test_set_processed_8bit.csv
+air-pressure-system-failure-prediction/aps_failure_test_set.csv
+air-pressure-system-failure-prediction/aps_failure_training_set.csv
 
 
 
