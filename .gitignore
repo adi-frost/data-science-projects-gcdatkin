@@ -173,6 +173,8 @@ cython_debug/
 **/.ipynb_checkpoints
 # PyPI configuration file
 .pypirc
+
+
 age-prediction-from-facial-images/archive
 age-prediction-from-facial-images/archive.zip
 cat-scan-location-prediction/slice_localization_data.csv
@@ -196,4 +198,5 @@ air-pressure-system-failure-prediction/aps_failure_training_set.csv
 face-image-classification/age_gender.csv
 sign-language-digit-recognition-(LeNet)/archive
 introvert-vs-extrovert-classification/mbti_1.csv
+electric-motor-temperature-prediction/measures_v2.csv
 
