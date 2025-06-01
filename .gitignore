@@ -199,4 +199,6 @@ face-image-classification/age_gender.csv
 sign-language-digit-recognition-(LeNet)/archive
 introvert-vs-extrovert-classification/mbti_1.csv
 electric-motor-temperature-prediction/measures_v2.csv
+human-activity-recognition/archive
+
 
