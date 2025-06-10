@@ -203,3 +203,5 @@ human-activity-recognition/archive
 pneumonia-xray-image-recognition/archive
 cab-ride-price-prediction/cab_rides.csv
 lyme-disease-image-classification/RashData
+kickstarter-success-prediction/ks-projects-201612.csv
+kickstarter-success-prediction/ks-projects-201801.csv
