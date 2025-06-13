@@ -208,3 +208,4 @@ kickstarter-success-prediction/ks-projects-201801.csv
 mining-quality-prediction/MiningProcess_Flotation_Plant_Database.csv
 abnormal-heartbeat-classification/ptbdb_abnormal.csv
 abormal-heatbeat-classification/ptbdb_normal.csv
+used-car-price-prediction/vehicles.csv
